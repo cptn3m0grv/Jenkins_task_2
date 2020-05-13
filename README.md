@@ -1,4 +1,3 @@
-![banner](images/12.PNG)
 # Jenkins_task_2
 
 ## TASK
